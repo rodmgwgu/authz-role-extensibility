@@ -1,0 +1,42 @@
+# Dependencies
+node_modules
+
+# Build output
+dist
+dist-ssr
+
+# Environment files
+*.local
+.env
+.env.*
+
+# Editor and OS
+.DS_Store
+*.swp
+*.swo
+.idea
+.vscode
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+logs
+*.log
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Coverage
+coverage
+*.lcov
+
+# Slidev specific
+.vite-inspect
+.remote-assets
+components.d.ts
+
+# Misc
+.cache
+.temp
+*.tsbuildinfo
