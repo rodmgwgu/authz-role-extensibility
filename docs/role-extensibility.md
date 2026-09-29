@@ -9,7 +9,7 @@ Slides (live): https://rodmgwgu.github.io/authz-role-extensibility/
 
 ## TL;DR
 
-Two projects extend roles in `openedx-authz`, for different users and at
+Two projects extend roles in `openedx-authz`, for different audiences and at
 different times:
 
 - **AuthZ Extensibility** ([#408](https://github.com/openedx/openedx-authz/issues/408))
